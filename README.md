@@ -1,2 +1,2 @@
 # codility_dominator
-Solution for codility problems
+Solution for codility problem - dominator - 100/100
