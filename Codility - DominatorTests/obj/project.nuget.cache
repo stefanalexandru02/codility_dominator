@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6R/4ivQfIaxzSITSXV+TGsbnXwfse5SEfiGaG5YIcF1uIeMajZT4r7K//hQpCUk7hSM7KBQe97hrI4nnaUDEmw==",
+  "dgSpecHash": "StBTV72lFw23kdOnsJWMMwndXiI0RUNIboSfoqWELcFwILo30q+l3LYoG9bysq+2gIYkBkwDuksiBP8EIL5pvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stefa\\Desktop\\Codility - Dominator\\Codility - DominatorTests\\Codility - DominatorTests.csproj",
+  "projectFilePath": "C:\\Users\\stefa\\source\\repos\\codility_dominator\\Codility - DominatorTests\\Codility - DominatorTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

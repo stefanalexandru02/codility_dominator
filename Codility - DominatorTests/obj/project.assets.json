@@ -5737,11 +5737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stefa\\Desktop\\Codility - Dominator\\Codility - DominatorTests\\Codility - DominatorTests.csproj",
+      "projectUniqueName": "C:\\Users\\stefa\\source\\repos\\codility_dominator\\Codility - DominatorTests\\Codility - DominatorTests.csproj",
       "projectName": "Codility - DominatorTests",
-      "projectPath": "C:\\Users\\stefa\\Desktop\\Codility - Dominator\\Codility - DominatorTests\\Codility - DominatorTests.csproj",
+      "projectPath": "C:\\Users\\stefa\\source\\repos\\codility_dominator\\Codility - DominatorTests\\Codility - DominatorTests.csproj",
       "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stefa\\Desktop\\Codility - Dominator\\Codility - DominatorTests\\obj\\",
+      "outputPath": "C:\\Users\\stefa\\source\\repos\\codility_dominator\\Codility - DominatorTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stefa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5757,8 +5757,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\stefa\\Desktop\\Codility - Dominator\\Codility - Dominator\\Codility - Dominator.csproj": {
-              "projectPath": "C:\\Users\\stefa\\Desktop\\Codility - Dominator\\Codility - Dominator\\Codility - Dominator.csproj"
+            "C:\\Users\\stefa\\source\\repos\\codility_dominator\\Codility - Dominator\\Codility - Dominator.csproj": {
+              "projectPath": "C:\\Users\\stefa\\source\\repos\\codility_dominator\\Codility - Dominator\\Codility - Dominator.csproj"
             }
           }
         }
