@@ -1,0 +1,13 @@
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\obj\Debug\netcoreapp3.1\Codility - Dominator.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\obj\Debug\netcoreapp3.1\Codility - Dominator.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\obj\Debug\netcoreapp3.1\Codility - Dominator.AssemblyInfoInputs.cache
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\obj\Debug\netcoreapp3.1\Codility - Dominator.AssemblyInfo.cs
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\bin\Debug\netcoreapp3.1\Codility - Dominator.exe
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\bin\Debug\netcoreapp3.1\Codility - Dominator.deps.json
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\bin\Debug\netcoreapp3.1\Codility - Dominator.runtimeconfig.json
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\bin\Debug\netcoreapp3.1\Codility - Dominator.runtimeconfig.dev.json
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\bin\Debug\netcoreapp3.1\Codility - Dominator.dll
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\bin\Debug\netcoreapp3.1\Codility - Dominator.pdb
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\obj\Debug\netcoreapp3.1\Codility - Dominator.dll
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\obj\Debug\netcoreapp3.1\Codility - Dominator.pdb
+C:\Users\stefa\Desktop\Codility - Dominator\Codility - Dominator\obj\Debug\netcoreapp3.1\Codility - Dominator.genruntimeconfig.cache
